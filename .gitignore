@@ -1,0 +1,11 @@
+# exclude hass database
+config/home-assistant_v2.db
+
+# exclude logs
+config/home-assistant.log
+
+# auth
+config/.storage/
+
+# secrets
+config/secrets.yaml
